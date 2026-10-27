@@ -1,0 +1,16 @@
+(1) python 설치
+
+https://www.python.org/downloads/release/python-3125/
+
+
+(2) vs code 설치
+https://code.visualstudio.com/thank-you?dv=win64user
+
+
+(3) antigravity ide 설치
+https://antigravity.google/product/antigravity-ide
+
+
+(4) uv 설치 - PowerShell 에서 
+
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
