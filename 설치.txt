@@ -16,5 +16,5 @@ https://antigravity.google/product/antigravity-ide
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 
-
+[참고]
 AQ.Ab8RN6IxBvgKzHtSK8mgk_hLdrxoigSm4YTbRoCLfHOHIt1H8g
