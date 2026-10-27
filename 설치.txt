@@ -3,8 +3,7 @@
 https://www.python.org/downloads/release/python-3125/
 
 
-(2) vs code 설치
-https://code.visualstudio.com/thank-you?dv=win64user
+(2) google.com - 받은 계정으로 로그인
 
 
 (3) antigravity ide 설치
