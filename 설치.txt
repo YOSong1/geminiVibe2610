@@ -15,5 +15,12 @@ https://antigravity.google/product/antigravity-ide
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 
+[자료업로드]
+https://drive.google.com/drive/folders/1d7oNfGdpBrGqWgSaQ8IOfX11mEvwL-_J?usp=drive_link
+
+본인 이름으로 폴더 생성한 후 자료 모두 업로드 하세요.
+
+
+
 [참고]
 AQ.Ab8RN6IxBvgKzHtSK8mgk_hLdrxoigSm4YTbRoCLfHOHIt1H8g
