@@ -13,4 +13,7 @@
 - 제목 :RAG에서 AI 에이전트까지 — LangChain · LangGraph로 만드는 실전 업무 자동화
 - 링크 : https://wikidocs.net/book/19654
 
+[개인자료]
+https://drive.google.com/drive/folders/1hvZphK-WKO3EbHHnCBRHMgTwCPF6yJhR?usp=sharing
+
 
